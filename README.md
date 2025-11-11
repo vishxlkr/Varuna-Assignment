@@ -130,5 +130,3 @@ curl -X POST http://localhost:5000/pools -H "Content-Type: application/json" \
 ## Screenshots
 
 -  See running app for the four tabs. You can capture screens after starting both servers.
-
-.
