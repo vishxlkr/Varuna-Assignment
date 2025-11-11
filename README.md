@@ -1,4 +1,4 @@
-# FuelEU Maritime — Full-Stack Assignment
+﻿# FuelEU Maritime — Full-Stack Assignment
 
 This repository contains a minimal FuelEU Maritime compliance module implemented with a hexagonal architecture.
 
@@ -129,4 +129,7 @@ curl -X POST http://localhost:5000/pools -H "Content-Type: application/json" \
 
 ## Screenshots
 
--  See running app for the four tabs. You can capture screens after starting both servers.
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
